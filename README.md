@@ -3,7 +3,7 @@
 ## Project Background
 This is a mini-project of Rakamin Academy Data Science Bootcamp. My role is a Data Scientist in a company as part of the core Data Science team. My responsibility is to process historical marketing campaign data to improve performance and target the right customers, thus encouraging them to transact on the company's platform. In this mini project, I will learn how to process data, clean it, build machine learning models, and draw conclusions and business insights that can be recommended for the ongoing marketing campaigns.
 
-Dataset: Sales Data Provided by Rakamin Academy.
+Dataset: Sales Data Provided by Rakamin Academy. <br>
 Tools:
 - Python
 - Jupyter Notebook
@@ -29,7 +29,7 @@ Dataset is consisted of 2240 rows and 30 columns.
 **Table 2. Feature Engineering** <br>
 **No**  |     **New Feature**      |    **Method**     |   
 :-----: |    ----------------    |    ------------     |
-1 | `Age` | (2023 - `Year_Birth` |
+1 | `Age` | (2023 - `Year_Birth`) |
 2 | `Age_Category` | 21-40 : **Adult** , 41-60 : **Middle Aged** , 61-80 : **Old** |
 3 | `Total_Children` | `Teenhome` + `Kidhome` |
 4 | `Total_Purchases` | `NumDealsPurchases` + `NumWebPurchases` + `NumCatalogPurchases` + `NumStorePurchases` |
