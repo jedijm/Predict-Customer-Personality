@@ -1,9 +1,7 @@
 # Predict Customer Personality to Boost Marketing Campaign by Using Machine Learning. 
 
 ## Project Background
-<p align="justified"> 
   This is a mini-project of Rakamin Academy Data Science Bootcamp. My role is a Data Scientist in a company as part of the core Data Science team. My responsibility is to process historical marketing campaign data to improve performance and target the right customers, thus encouraging them to transact on the company's platform. In this mini project, I will learn how to process data, clean it, build machine learning models, and draw conclusions and business insights that can be recommended for the ongoing marketing campaigns.
-</p>
 
 Dataset: Sales Data Provided by Rakamin Academy. <br>
 Tools:
