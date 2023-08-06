@@ -30,7 +30,7 @@ Dataset is consisted of 2240 rows and 30 columns.
 **No**  |     **New Feature**      |    **Method**     |   
 :-----: |    ----------------    |    ------------     |
 1 | `Age` | (2023 - `Year_Birth`) |
-2 | `Age_Category` | 21-40 : **Adult** , 41-60 : **Middle Aged** , 61-80 : **Old** |
+2 | `Age_Category` | `Age` ~ 21-40 : **Adult** , 41-60 : **Middle Aged** , 61-80 : **Old** |
 3 | `Total_Children` | `Teenhome` + `Kidhome` |
 4 | `Total_Purchases` | `NumDealsPurchases` + `NumWebPurchases` + `NumCatalogPurchases` + `NumStorePurchases` |
 5 | `Total_Spend` | `MntCoke` + `MntFruits` + `MntMeatProducts` + `MntFishProducts` + `MntSweetProducts` + `MntGoldProds` |
